@@ -1,0 +1,10 @@
+body{
+    /* Firefox */
+	background: -moz-linear-gradient(45deg, #242e43, #242e43);
+	/* Chrome , Safari */
+	background: -webkit-linear-gradient(45deg, #242e43, #242e43);
+	/* IE11 */
+	background: linear-gradient(45deg, #242e43, #242e43);
+	/* 代用 */
+	background-color: #242e43;
+}

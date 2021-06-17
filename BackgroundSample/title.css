@@ -1,0 +1,11 @@
+.sample_h_4{
+    font-size: 2.0em;/* フォントサイズ */
+    font-weight: bold;/* フォント太さ */
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    border-top: 3px solid #cbdfc1;/* 上の線 */
+    border-bottom: 3px solid #cbdfc1;/* 下の線 */
+    color: #cbdfc1;/* フォント色 */
+    text-align: center;/* テキストの位置 */
+    }
